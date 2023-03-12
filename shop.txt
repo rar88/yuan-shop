@@ -5,4 +5,8 @@ this is first git
 dev-2023年3月12日
 开发完毕\
 推送到远程dev
+<<<<<<< HEAD
 shop
+=======
+yuan-shop
+>>>>>>> 7efa4f82a5476225e96444595bb913b5ef80d30c
