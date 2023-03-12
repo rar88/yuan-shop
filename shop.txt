@@ -4,3 +4,8 @@ this is first git
 main:
 2023年3月12日-new
 
+<<<<<<< HEAD
+=======
+dev-2023年3月12日
+开发完毕
+>>>>>>> dev
