@@ -1,0 +1,10 @@
+Host github
+HostName github.com
+User git
+IdentityFile ~/.ssh/id_rsa
+
+
+Host coding
+HostName coding.net
+User git
+IdentityFile ~/.ssh/id_rsa_coding
