@@ -1,4 +1,6 @@
 this is first git
 2023年3月12日
-
+<<<<<<< HEAD
 main:
+2023年3月12日-new
+
